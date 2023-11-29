@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Are you sure? This will disable some functions of your device.</string>
+	</dict>
+	<key>HasRemovalPasscode</key>
+	<false/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.7533E1F2-C7E8-4A66-80AF-7D7A0E33CB05</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>7533E1F2-C7E8-4A66-80AF-7D7A0E33CB05</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+						<key>allowApplePersonalizedAdvertising</key>
+			<false/>
+						<key>safariAllowPopups</key>
+			<false/>
+						<key>forceLimitAdTracking</key>
+			<true/>
+						<key>allowDiagnosticSubmission</key>
+			<false/>
+						<key>forceLimitAdTracking</key>
+			<true/>
+<key>allowSiriServerLogging</key>
+			<false/>
+			</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Prevent apps to request to track
+Prevent personalized ads delivered by Apple
+Prevent sending diagnostic and usage data to Apple - (also disables modifying diagnostic settings)
+Block pop-ups in Safari
+Deactivate server-side logging of Siri requests</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable (some) tracking and privacy vulnerabilities</string>
+	<key>PayloadIdentifier</key>
+	<string>D6FB914C-323A-4D51-80DE-BA8F095FF327</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B92FD590-87F9-4A23-A63B-EC30787C53A0</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
