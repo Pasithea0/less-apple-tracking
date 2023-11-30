@@ -24,19 +24,19 @@
 			<string>7533E1F2-C7E8-4A66-80AF-7D7A0E33CB05</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-						<key>allowApplePersonalizedAdvertising</key>
+			<key>allowApplePersonalizedAdvertising</key>
 			<false/>
-						<key>safariAllowPopups</key>
+			<key>safariAllowPopups</key>
 			<false/>
-						<key>forceLimitAdTracking</key>
+			<key>forceLimitAdTracking</key>
 			<true/>
-						<key>allowDiagnosticSubmission</key>
+			<key>allowDiagnosticSubmission</key>
 			<false/>
-						<key>forceLimitAdTracking</key>
+			<key>forceLimitAdTracking</key>
 			<true/>
-<key>allowSiriServerLogging</key>
+			<key>allowSiriServerLogging</key>
 			<false/>
-			</dict>
+		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Prevent apps to request to track
